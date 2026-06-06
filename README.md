@@ -3,7 +3,7 @@
 Software engineer and solutions architect with 20+ years building systems across 
 enterprise, consulting, and product environments.  
 
-I have passion for 🏹 , ⚽️, ☕️
+I have passion for 🏹 , ⚽️, ☕️, ⌨️, 📚, 📝 
 
 **Core stack:** Java / Spring Boot · Python · C/C++ · TypeScript · React · Angular · AWS · Azure · GCP
 
