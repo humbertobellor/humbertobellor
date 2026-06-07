@@ -14,6 +14,6 @@ Microservices · API design
 
 **Practices:** TDD · Extreme Programming · SAFe · CI/CD · DORA metrics
 
-**Current focus:**  AI-native and AI augmented engineering. Writing about AI systems design and software architecture on Substack.
+**Current focus:**  AI-native and AI augmented engineering. Writing about software enginering practices and platform modernization on [Substack](https://substack.com/@humbertobellor).
 
-📍 Miami, FL · 🌐 Bilingual (English / Spanish)
+📍 Miami, FL 🇺🇸 · 🌐 Bilingual (English / Spanish)
